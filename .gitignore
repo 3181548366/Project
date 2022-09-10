@@ -1,0 +1,4 @@
+#忽略以html结尾的文件
+html
+text/
+css.txt
